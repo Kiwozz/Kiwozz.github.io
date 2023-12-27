@@ -1,9 +1,9 @@
 {
-  "name": "Dinozz",
-  "short_name": "Dinozz",
+  "name": "Dinozzzz",
+  "short_name": "Dinozzzz",
   "id": "fr.ozz.dinozz",
   "description": "",
-  "orientation": "landscape",
+  "orientation": "portrait",
   "start_url": "./index.html",
   "display": "fullscreen",
   "background_color": "white",
