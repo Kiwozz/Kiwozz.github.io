@@ -3,10 +3,10 @@
   "short_name": "Dinozz",
   "id": "fr.ozz.dinozz",
   "description": "",
-  "orientation": "portrait",
+  "orientation": "landscape",
   "start_url": "./index.html",
   "display": "fullscreen",
-  "background_color": "blue",
+  "background_color": "white",
   "categories": ["games", "entertainment"],
   "icons": [{
         "src": "Capture d’écran 2023-09-23 à 18.23.38.png",
