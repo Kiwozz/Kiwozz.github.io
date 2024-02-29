@@ -6,7 +6,7 @@
   "orientation": "portrait",
   "start_url": "./index.html",
   "display": "fullscreen",
-  "background_color": "white",
+  "background_color": "#fff",
   "categories": ["games", "entertainment"],
   "icons": [{
         "src": "Capture d’écran 2023-09-23 à 18.23.38.png",
